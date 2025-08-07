@@ -13,31 +13,31 @@ A interface gráfica é intuitiva e permite realizar todas as operações de CRU
 
 A tela inicial exibe a lista de usuários que foram cadastrados e os campos para adicionar novos usuários.
 
-![Tela Principal do Gerenciador](tela1.png)
+![Tela Principal do Gerenciador](Image/tela1.png)
 
 #### Busca de Usuário por ID
 
 Ao inserir um ID e clicar em "Buscar", a aplicação retorna os dados do usuário em um pop-up.
 
-![Pop-up de Busca por Usuário](tela2.png)
+![Pop-up de Busca por Usuário](Image/tela2.png)
 
 #### Deletando Usuário
 
 Ao inserir um ID e clicar em "Deletar", a aplicação solicita uma confirmação para evitar deleções acidentais.
 
-![Confirmação de Deleção](tela3.png)
+![Confirmação de Deleção](Image/tela3.png)
 
 #### Atualização de Usuário
 
 Você pode buscar um usuário e seus dados preencherão os campos, permitindo que você altere as informações.
 
-![Tela de Atualização de Usuário](tela4.png)
+![Tela de Atualização de Usuário](Image/tela4.png)
 
 #### Lista de Usuários Atualizada
 
 A lista de usuários é atualizada dinamicamente após preencher e clicar em atualizar.
 
-![Lista de Usuários Atualizada](tela5.png)
+![Lista de Usuários Atualizada](Image/tela5.png)
 
 ### 🛠️ Tecnologias Utilizadas
 
